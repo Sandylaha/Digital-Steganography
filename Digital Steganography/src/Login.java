@@ -70,7 +70,7 @@ public class Login extends JFrame implements ActionListener,Serializable{
 		 {
 			   String value1=textfield1.getText();
 			   String value2=passwordfield2.getText();
-			   if (value1.equals("admin") && value2.equals("admin")) {
+			   if (value1.equals("Sandip") && value2.equals("Sandip1234")) {
 			   Stegno page=new Stegno();
 			   page.setVisible(true);
 			  
