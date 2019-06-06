@@ -3,6 +3,6 @@ Steganography is the process or art of hiding (writing or drawing) secret inform
 
 It comprises of five java classes, which are Login, Stegno Menu, Encryption, Decryption and Send image.
 
-For Login Page:
+For Login Page
 Login Name: Sandip
 Password: Sandip1234
